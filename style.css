@@ -1,1 +1,7 @@
 /* CSS for Ashford Realty */
+
+.test-heading {
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
