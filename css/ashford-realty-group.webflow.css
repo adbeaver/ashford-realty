@@ -1,0 +1,26 @@
+.hero {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: auto;
+  padding-right: 5%;
+  padding-left: 5%;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.hero-left {
+  width: 50%;
+  padding-right: 78px;
+}
+
+.hero-right {
+  width: 50%;
+}
+
+.paragraph {
+  margin-bottom: 22px;
+}
