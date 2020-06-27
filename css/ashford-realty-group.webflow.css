@@ -1,26 +1,26 @@
 .hero {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  height: auto;
-  padding-right: 5%;
-  padding-left: 5%;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  height: auto !important;
+  padding-right: 5% !important;
+  padding-left: 5% !important;
+  -webkit-box-align: center !important;
+  -webkit-align-items: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
 }
 
 .hero-left {
-  width: 50%;
-  padding-right: 78px;
+  width: 50% !important;
+  padding-right: 78px !important;
 }
 
 .hero-right {
-  width: 50%;
+  width: 50% !important;
 }
 
 .paragraph {
-  margin-bottom: 22px;
+  margin-bottom: 22px !important;
 }
